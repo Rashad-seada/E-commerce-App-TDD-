@@ -1,0 +1,7 @@
+{
+  "statusCode": 400,
+  "message": "check your email and password",
+  "user": null,
+  "token": null
+}
+

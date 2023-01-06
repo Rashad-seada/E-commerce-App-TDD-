@@ -1,0 +1,62 @@
+{
+  "statusCode": 200,
+  "categories": [
+    {
+    "id": 1,
+    "categories_name": "Men's Fashion",
+    "categories_sections": [
+      {
+        "section_id": 1,
+        "section_name": "Shirts"
+      },
+      {
+        "section_id": 1,
+        "section_name": "Activewear"
+      },
+      {
+        "section_id": 1,
+        "section_name": "Pants & trousers"
+      }
+    ]
+    },
+
+    {
+      "id": 1,
+      "categories_name": "Women's Fashion",
+      "categories_sections": [
+        {
+          "section_id": 1,
+          "section_name": "Dresses"
+        },
+        {
+          "section_id": 1,
+          "section_name": "T-shirts & vests"
+        },
+        {
+          "section_id": 1,
+          "section_name": "Shirts & blouses"
+        }
+      ]
+    },
+
+    {
+      "id": 1,
+      "categories_name": "Gocery",
+      "categories_sections": [
+        {
+          "section_id": 1,
+          "section_name": "Pasta and noodles"
+        },
+        {
+          "section_id": 1,
+          "section_name": "Grains & Rice"
+        },
+        {
+          "section_id": 1,
+          "section_name": "Flours"
+        }
+      ]
+    }
+
+  ]
+}
